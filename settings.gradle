@@ -10,3 +10,4 @@ rootProject.name = "Retrofit_24nov_Abramov"
 include ':app'
 include ':app2'
 include ':app3'
+include ':app4'
